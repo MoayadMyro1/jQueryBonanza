@@ -1,0 +1,21 @@
+﻿body {
+}
+#result {
+    width:100%;
+    margin-top:10px;
+    border-radius:7px;
+}
+input[type=button] {
+    min-width: 65px;
+    margin: 4px auto;
+    padding: 5px;
+    text-align: center;
+    box-shadow: 5px 4px;
+    border:1px solid #000;
+}
+.rdtxt {
+    color:brown;
+}
+    /*.row{
+        margin:0 !important;
+    }*/
